@@ -1,0 +1,9 @@
+div.swiper-button-prev,
+div.swiper-button-prev:after,
+div.swiper-button-next,
+div.swiper-button-next:after {
+  color: #808080;
+  font-size: 30px;
+  border-radius: 100%;
+}
+
