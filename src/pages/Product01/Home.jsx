@@ -26,6 +26,18 @@ const Home = () => {
           cutPrice="1.589,90"
           parcelaPrice="76,42"
           valorTotal="917,13"
+          valor2x="458,56"
+          valor3x="305,71"
+          valor4x="229,28"
+          valor5x="183,42"
+          valor6x="152,85"
+          valor7x="131,01"
+          valor8x="114,64"
+          valor9x="101,90"
+          valor10x="91,71"
+          valor11x="83,37"
+          valor12x="76,42"
+          valorPix="806,89"
         />
       </Row>
       <Button title="COMPRAR AGORA" />
